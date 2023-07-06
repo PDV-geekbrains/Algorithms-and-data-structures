@@ -23,7 +23,7 @@ public class task_02_01 {
         int n = arrayToSort.length;
         // Строим кучу (перегруппировываем массив).
         for (int parentIndex = n / 2 - 1; parentIndex >= 0; parentIndex--) {
-            // Перемещаем в на позицию родителя наибольшее
+            // Перемещаем на позицию родителя наибольшее
             // из значений его потомков.
             Heapify(arrayToSort, n, parentIndex);
         }
