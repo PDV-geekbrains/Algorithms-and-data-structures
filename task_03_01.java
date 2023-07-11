@@ -1,16 +1,24 @@
 
 public class task_03_01 {
     public static void main(String[] args) {
+        /** Создать исходный список. */
+        LinkedList list = GetList();
+        list.Print();
+
+        /** Развернуть список. */
+        list.Reverse();
+        list.Print();
+    }
+
+    /** Создаёт список с фиксированными значениями. */
+    static LinkedList GetList() {
         LinkedList list = new LinkedList();
         list.Add(1);
         list.Add(2);
         list.Add(3);
         list.Add(4);
         list.Add(5);
-        list.Print();
-
-        list.Reverse();
-        list.Print();
+        return list;
     }
 }
 
