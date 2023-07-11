@@ -2,7 +2,7 @@
 
 ### Урок 3. Структуры данных. Связный список.
 
-* [Задача 1]()
+* [Задача 1](https://github.com/PDV-geekbrains/Algorithms-and-data-structures/blob/master/task_03_01.java)
 
 ### Урок 2. Структуры данных. Массивы. Алгоритмы массивов.
 
