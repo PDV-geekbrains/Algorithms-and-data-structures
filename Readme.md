@@ -2,7 +2,7 @@
 
 ### Урок 4. Структуры данных дерево и хэш-таблица
 
-* [Задача 1]()
+* [Задача 1](https://github.com/PDV-geekbrains/Algorithms-and-data-structures/blob/master/task_04_01.java)
 
 ### Урок 3. Структуры данных. Связный список.
 
